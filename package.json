@@ -13,7 +13,7 @@
     "@types/react-helmet": "^5.0.15",
     "emotion-normalize": "^10.1.0",
     "emotion-theming": "^10.0.27",
-    "gatsby": "^2.19.43",
+    "gatsby": "^4.25.7",
     "gatsby-image": "^2.2.43",
     "gatsby-plugin-emotion": "^4.3.0",
     "gatsby-plugin-manifest": "^2.2.47",
